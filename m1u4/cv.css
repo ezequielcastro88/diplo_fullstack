@@ -1,0 +1,16 @@
+.titulos{
+    color: blue;
+    font-weight: bolder;
+
+}
+
+li {
+    font-style: italic;
+
+}
+body{
+    background-color: rgb(122, 122, 120);
+}
+p{
+    font-weight: bold;
+}
