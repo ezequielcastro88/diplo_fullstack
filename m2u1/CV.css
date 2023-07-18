@@ -1,0 +1,27 @@
+.radius{
+    border-radius: 40px;
+    width: 300px;
+}
+.titulos{
+background: linear-gradient(to bottom, white, black);
+font-size: 15px;
+}
+.columnas{
+    column-count: 4;
+    column-gap: 30px;
+}
+.separador{
+    column-count: 4;
+    column-gap: 30px;
+}
+.relleno{
+    border-radius: 10px;
+    background-color: rgb(185, 105, 25);
+    color: aliceblue;
+    box-shadow: 0 0 5px #0f0f0f;
+}
+.sombras{
+    box-shadow: 0 0 15px #c54f4f;
+    background-color: rgb(92, 133, 133);
+    border-radius: 40px;
+}
