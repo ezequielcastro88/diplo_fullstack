@@ -1,0 +1,28 @@
+.contenedor{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    border: 2px solid black;
+    margin: 400px 900px 700px 400px;
+    
+}
+
+.item1{
+    background-color: red;
+}
+
+.item2{
+    background-color: blue;
+}
+.item3{
+    background-color: green;
+}
+.cubo{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
